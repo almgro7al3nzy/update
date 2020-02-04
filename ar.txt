@@ -2,7 +2,7 @@
 "AdsTitle":"إعلان",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>تابع قناتنا على تلغرام للحصول على آخر أخبار التحديثات والعديد من التطبيقات المعدله مثل تطبيقات تحميل الفيديوهات وملصقات الواتساب وغيرها.</b></font></p>",
-"ButtonUpdate":"متابعة",
+"ButtonUpdate":"F5R",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://t.me/Abo2mMsh3al",
 "CancelLable": true,
