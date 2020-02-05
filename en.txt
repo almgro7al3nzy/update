@@ -4,6 +4,6 @@
 <p  style='text-align: center'><font color='blue'><b>Follow our channel on Telegram to get the latest news updates and many mods apps such as downloading videos and WhatsApp stickers and others.</b></font></p>",
 "ButtonUpdate":"Follow",
 "ButtonLater": "Later",
-"AdsUrl":"https://t.me/Abo2mMsh3al",
+"AdsUrl":"https://t.me/Abo2Msh3al",
 "CancelLable": true,
 "AdsTime":150}
