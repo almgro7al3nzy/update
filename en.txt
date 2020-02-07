@@ -1,4 +1,4 @@
-{"version_code":453021,
+{"version_code":453019,
 "AdsTitle":"ADS",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>Follow our channel on Telegram to get the latest news updates and many mods apps such as downloading videos and WhatsApp stickers and others.</b></font></p>",
