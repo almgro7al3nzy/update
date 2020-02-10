@@ -1,9 +1,9 @@
-{"version_code":453019,
-"AdsTitle":"ADS",
+{"version_code":453021,
+"AdsTitle":"Support mailing",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>Follow our channel on Telegram to get the latest news updates and many mods apps such as downloading videos and WhatsApp stickers and others.</b></font></p>",
-"ButtonUpdate":"Follow",
+<p  style='text-align: center'><font color='blue'><b>If you encounter any problem in WhatsApp, please contact me by pressing the message button below.</b></font></p>",
+"ButtonUpdate":"Message",
 "ButtonLater": "Later",
-"AdsUrl":"https://t.me/Abo2Msh3al",
+"AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
 "CancelLable": true,
 "AdsTime":150}

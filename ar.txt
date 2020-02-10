@@ -1,9 +1,9 @@
-{"version_code":453019,
-"AdsTitle":"إعلان",
+{"version_code":453021,
+"AdsTitle":"مراسلة الدعم",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>تابع قناتنا على تلغرام للحصول على آخر أخبار التحديثات والعديد من التطبيقات المعدله مثل تطبيقات تحميل الفيديوهات وملصقات الواتساب وغيرها.</b></font></p>",
-"ButtonUpdate":"موافق",
+<p  style='text-align: center'><font color='blue'><b>اذا واجهتك اي مشكلة في الواتس اب الرجاء مراسلتي عبر الضغط على زر مراسلة في الاسفل.</b></font></p>",
+"ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://t.me/Abo2Msh3al",
+"AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
 "CancelLable": true,
 "AdsTime":150}
