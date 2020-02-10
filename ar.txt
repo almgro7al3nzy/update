@@ -1,4 +1,4 @@
-{"version_code":453021,
+{"version_code":453026,
 "AdsTitle":"مراسلة الدعم",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>اذا واجهتك اي مشكلة في الواتس اب الرجاء مراسلتي عبر الضغط على زر مراسلة في الاسفل.</b></font></p>",
