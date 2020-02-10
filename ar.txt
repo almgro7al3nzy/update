@@ -4,6 +4,6 @@
 <p  style='text-align: center'><font color='blue'><b>اذا واجهتك اي مشكلة في الواتس اب الرجاء مراسلتي عبر الضغط على زر مراسلة في الاسفل.</b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
+"AdsUrl":"https://tawk.to/chat/5c0a7652efb17917781f64ab/default",
 "CancelLable": true,
 "AdsTime":150}
