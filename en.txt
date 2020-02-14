@@ -1,4 +1,4 @@
-{"version_code":453021,
+{"version_code":453019,
 "AdsTitle":"Support mailing",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>If you encounter any problem in WhatsApp, please contact me by pressing the message button below.</b></font></p>",
