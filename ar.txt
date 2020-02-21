@@ -1,7 +1,9 @@
-{"version_code":453019,
-"AdsTitle":"مراسلة الدعم",
+{"version_code":453021,
+"AdsTitle":" الدعم",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>اذا واجهتك اي مشكلة في الواتس اب الرجاء مراسلتي عبر الضغط على زر مراسلة في الاسفل.</b></font></p>",
+<p  style='text-align: center'><font color='blue'><b>الذي ظهرت لديه رسالة تحديث قبل 15 يوم 
+لا تقم بل تحديث الان نحن نعمل على نسخة جديده وسوف نرسل لكم اشعار بذالك 
+تحياتي المطور : Abo2Msh3al.</b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://tawk.to/chat/5c0a7652efb17917781f64ab/default",
