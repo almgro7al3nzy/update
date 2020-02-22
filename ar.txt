@@ -1,7 +1,8 @@
 {"version_code":453145,
-"AdsTitle":" الدعم",
+"AdsTitle":"Abo2Msh3al",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>التحديث غدا  : Abo2Msh3al.</b></font></p>",
+<p  style='text-align: center'><font color='blue'><b>الرجاء تحديث الواتس اب
+اذا واجهتك مشكلة لا تتردد في مراسلت الدعم الفني عبر الضغط على مراسلة </b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://tawk.to/chat/5c0a7652efb17917781f64ab/default",
