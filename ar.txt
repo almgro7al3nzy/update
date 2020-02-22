@@ -1,7 +1,7 @@
 {"version_code":453145,
 "AdsTitle":"Abo2Msh3al",
 "content":"
-<p  style='text-align: center'><font color='blue'><b> الرجاء تحديث الواتس اب
+<p  style='text-align: center'><font color='blue'><b> الرجاء تحديث AKWhatsApp
     اذا     واجهتك مشكلة لا تتردد في مراسلت الدعم الفني عبر الضغط على مراسلة </b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
