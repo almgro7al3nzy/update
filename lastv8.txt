@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'15', 'ver3':'\n[New] Update the expiration date\n[Fixed] Themes Downloader\n[Fixed] Crash on Kitkats users\n[Fixed] Unread Message Counter Color Does not Apply\n[Fixed] Widget Issue\n[Fixed] More bug fixes and improvements!\n', 'dli':'https://www.almgro7al3nzy.com/ak'}
+{'ver1':'8', 'ver2':'27', 'ver3':'\n[New] Update the expiration date\n[Fixed] Themes Downloader\n[Fixed] Crash on Kitkats users\n[Fixed] Unread Message Counter Color Does not Apply\n[Fixed] Widget Issue\n[Fixed] More bug fixes and improvements!\n', 'dli':'https://www.almgro7al3nzy.com/ak'}
