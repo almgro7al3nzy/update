@@ -1,5 +1,5 @@
-{"version_code":453019,
-"AdsTitle":"Abo2Msh3al",
+{"version_code":0,
+"AdsTitle":"الدعم",
 "content":"
 <p  style='text-align: center'><font color='blue'><b> الرجاء تحديث AKWhatsApp
     اذا     واجهتك مشكلة لا تتردد في مراسلت الدعم الفني عبر الضغط على مراسلة </b></font></p>",

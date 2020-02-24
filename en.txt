@@ -1,5 +1,5 @@
-{"version_code":453019,
-"AdsTitle":"Abo2Msh3al",
+{"version_code":453145,
+"AdsTitle":"support",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>Please update WhatsApp
 If you encounter a problem, do not hesitate to contact technical support by clicking on the message.</b></font></p>",
