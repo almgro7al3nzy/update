@@ -1,5 +1,5 @@
 {"version_code":453145,
-"AdsTitle":"support",
+"AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>Do you have an inquiry or would you like to request a new special
 You can contact the developer.</b></font></p>",

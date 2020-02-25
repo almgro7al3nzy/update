@@ -1,5 +1,5 @@
 {"version_code":453145,
-"AdsTitle":"الدعم",
+"AdsTitle":"المطور",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>هل يوجد لديك استفسار او ترغب في طلب مميزة جديده 
 يمكنك ان تراسل المطور  </b></font></p>",
