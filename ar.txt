@@ -7,4 +7,4 @@
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
-"AdsTime":150}
+"AdsTime":1434}
