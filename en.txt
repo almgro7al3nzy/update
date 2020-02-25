@@ -1,10 +1,10 @@
 {"version_code":453145,
 "AdsTitle":"support",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>Please update WhatsApp
-If you encounter a problem, do not hesitate to contact technical support by clicking on the message.</b></font></p>",
+<p  style='text-align: center'><font color='blue'><b>Do you have an inquiry or would you like to request a new special
+You can contact the developer.</b></font></p>",
 "ButtonUpdate":"Message",
 "ButtonLater": "Later",
-"AdsUrl":"https://tawk.to/chat/5c0a7652efb17917781f64ab/default",
+"AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
 "AdsTime":150}

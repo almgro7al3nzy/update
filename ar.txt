@@ -1,10 +1,10 @@
-{"version_code":0,
+{"version_code":453145,
 "AdsTitle":"الدعم",
 "content":"
-<p  style='text-align: center'><font color='blue'><b> الرجاء تحديث AKWhatsApp
-    اذا     واجهتك مشكلة لا تتردد في مراسلت الدعم الفني عبر الضغط على مراسلة </b></font></p>",
+<p  style='text-align: center'><font color='blue'><b>هل يوجد لديك استفسار او ترغب في طلب مميزة جديده 
+يمكنك ان تراسل المطور  </b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://tawk.to/chat/5c0a7652efb17917781f64ab/default",
+"AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
 "AdsTime":150}
