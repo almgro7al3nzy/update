@@ -1,0 +1,10 @@
+{"version_code":0,
+"AdsTitle":"المطور",
+"content":"
+<p  style='text-align: center'><font color='blue'><b>هل يوجد لديك استفسار او ترغب في طلب مميزة جديده 
+يمكنك ان تراسل المطور  </b></font></p>",
+"ButtonUpdate":"مراسلة",
+"ButtonLater": "لاحقاً",
+"AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
+"CancelLable": true,
+"AdsTime":1434}
