@@ -1,8 +1,8 @@
-{"version_code":0,
+{"version_code":453145,
 "AdsTitle":"Developer",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>Do you have an inquiry or would you like to request a new special
-You can contact the developer.</b></font></p>",
+<p  style='text-align: center'><font color='blue'><b>For your and your family's safety, please follow the instructions of Ministry of Health officials.
+🙏 Abbas Al-Anazi wishes you health and wellness.</b></font></p>",
 "ButtonUpdate":"Message",
 "ButtonLater": "Later",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
