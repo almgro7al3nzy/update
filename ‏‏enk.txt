@@ -7,4 +7,4 @@ You can contact the developer.</b></font></p>",
 "ButtonLater": "Later",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
-"AdsTime":1}
+"AdsTime":2}
