@@ -1,4 +1,4 @@
-{"version_code":1,
+{"version_code":453145,
 "AdsTitle":"المطور",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>من اجل سلامتك وسلامة عائلتك يُرجى اتباع ارشادات المسؤلين في  وزارة الصحة .
