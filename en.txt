@@ -1,4 +1,4 @@
-{"version_code":453145,
+{"version_code":1,
 "AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='blue'><b>For your and your family's safety, please follow the instructions of Ministry of Health officials.
