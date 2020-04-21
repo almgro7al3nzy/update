@@ -1,10 +1,10 @@
-{"version_code":1,
+{"version_code":453149,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='red'><b>من اجل سلامتك وسلامة عائلتك يُرجى اتباع ارشادات المسؤلين في  وزارة الصحة</b></font></p>
-<p  style='text-align: center'><font color='green'><b>🙏 عباس العنزي  يتمنى لكم الصحة والعافية.</b></font></p>",
-"ButtonUpdate":"مراسلة",
+<p  style='text-align: center'><font color='red'><b>تطبيق مساعدة من اجل خدمتكم في اسرع وقت واسهل طريقه </b></font></p>
+<p  style='text-align: center'><font color='green'><b>يمكنك تحميل التطبيق بل نقر على تحميل .</b></font></p>",
+"ButtonUpdate":"تحميل",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
+"AdsUrl":"https://bit.ly/2VPOvhF",
 "CancelLable": true,
 "AdsTime":1434}
