@@ -1,10 +1,10 @@
-{"version_code":453146,
+{"version_code":1,
 "AdsTitle":"المطور",
 "content":"
-<img src="https://graph.facebook.com/100007933411790/picture?type=large" style="width:140px; height:140px;border: 2px;border-radius: 50%;" alt="Babar " title="عباس خليفة العنزي" class="thumbnail"/></a>
-<p  style='text-align: center'><font color='red'><b>من اجل سلامتك وسلامة عائلتك يُرجى اتباع ارشادات المسؤلين في  وزارة الصحة</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>من اجل سلامتك وسلامة عائلتك يُرجى اتباع ارشادات المسؤلين في  وزارة الصحة</b></font></p>
+<p  style='text-align: center'><font color='green'><b>🙏 عباس العنزي  يتمنى لكم الصحة والعافية.</b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
-"AdsTime":0}
+"AdsTime":1434}
