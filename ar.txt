@@ -1,4 +1,4 @@
-{"version_code":453149,
+{"version_code":1,
 "AdsTitle":"المطور",
 "content":"
 <p  style='text-align: center'><font color='red'><b>تطبيق مساعدة من اجل خدمتكم في اسرع وقت واسهل طريقه </b></font></p>
