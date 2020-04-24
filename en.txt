@@ -5,6 +5,6 @@
 🙏 Abbas Al-Anazi wishes you health and wellness.</b></font></p>",
 "ButtonUpdate":"Message",
 "ButtonLater": "Later",
-"AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
+"AdsUrl":"https://wa.me/962790791675?text=Ramadan",
 "CancelLable": true,
 "AdsTime":1434}

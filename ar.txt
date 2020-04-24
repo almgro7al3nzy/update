@@ -1,10 +1,10 @@
-{"version_code":1,
+{"version_code":453149,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='red'><b>تطبيق مساعدة من اجل خدمتكم في اسرع وقت واسهل طريقه </b></font></p>
-<p  style='text-align: center'><font color='green'><b>يمكنك تحميل التطبيق بل نقر على تحميل .</b></font></p>",
-"ButtonUpdate":"تحميل",
+<p  style='text-align: center'><font color='red'><b>كل عام وأنتم بخير وتقبل الله منا ومنكم صالح الأعمال ❤</b></font></p>
+<p  style='text-align: center'><font color='green'><b>اللَّهم أدخله علينا بالأمن والإيمان، والسلامةِ والإسلام، وجِوارٍ من الشيطان، ورِضوانٍ من الرحمن.</b></font></p>",
+"ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://bit.ly/2VPOvhF",
+"AdsUrl":"https://wa.me/962790791675?text=Ramadan",
 "CancelLable": true,
 "AdsTime":1434}
