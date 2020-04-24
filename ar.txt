@@ -1,8 +1,12 @@
 {"version_code":453149,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='red'><b>كل عام وأنتم بخير وتقبل الله منا ومنكم صالح الأعمال ❤</b></font></p>
-<p  style='text-align: center'><font color='green'><b>اللَّهم أدخله علينا بالأمن والإيمان، والسلامةِ والإسلام، وجِوارٍ من الشيطان، ورِضوانٍ من الرحمن.</b></font></p>",
+<p  style='text-align: center'><font color='green'><b>اللهم أعنّا على صيامه وقيامه
+واجعلنا فيه من عتقائك
+واصلحْ لنا ديننا الذي هو عصمة أمرنا
+ودنيانا التي فيها معاشنا
+وآخرتنا التي إليها معادنا</b></font></p>
+<p  style='text-align: center'><font color='red'><b>كل عام وأنتم بخير وتقبل الله منا ومنكم صالح الأعمال ❤</b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://wa.me/962790791675?text=Ramadan",
