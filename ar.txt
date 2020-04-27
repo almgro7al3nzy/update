@@ -1,4 +1,4 @@
-{"version_code":453149,
+{"version_code":0,
 "AdsTitle":"المطور",
 "content":"
 <p  style='text-align: center'><font color='green'><b>اللهم أعنّا على صيامه وقيامه\n واجعلنا فيه من عتقائك\n واصلح لنا ديننا الذي هو عصمة أمرنا\n ودنيانا التي فيها معاشنا\n وآخرتنا التي إليها معادنا</b></font></p>
