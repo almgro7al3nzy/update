@@ -1,8 +1,8 @@
 {"version_code":453429,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='green'><b>اللهم أعنّا على صيامه وقيامه\n واجعلنا فيه من عتقائك\n واصلح لنا ديننا الذي هو عصمة أمرنا\n ودنيانا التي فيها معاشنا\n وآخرتنا التي إليها معادنا</b></font></p>
-<p  style='text-align: center'><font color='red'><b>كل عام وأنتم بخير وتقبل الله منا ومنكم صالح الأعمال ❤</b></font></p>",
+<p  style='text-align: center'><font color='green'><b>فيحال وجود \n مشاكل </b></font></p>
+<p  style='text-align: center'><font color='red'><b>ارسلي الى الواتس اب الخص بل مطور </b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://wa.me/962790791675?text=Ramadan",

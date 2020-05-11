@@ -1,8 +1,7 @@
 {"version_code":453429,
 "AdsTitle":"Developer",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>For your and your family's safety, please follow the instructions of Ministry of Health officials.
-🙏 Abbas Al-Anazi wishes you health and wellness.</b></font></p>",
+<p  style='text-align: center'><font color='blue'><b>If there are any problems, contact me via WhatsApp for the developer.</b></font></p>",
 "ButtonUpdate":"Message",
 "ButtonLater": "Later",
 "AdsUrl":"https://wa.me/962790791675?text=Ramadan",
