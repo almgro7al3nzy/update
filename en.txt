@@ -1,4 +1,4 @@
-{"version_code":1,
+{"version_code":453427,
 "AdsTitle":"Dev-F5R",
 "content":"
 <p  style='text-align: center'><font color='green'><b>A new update has been released Please update now</b></font></p>
