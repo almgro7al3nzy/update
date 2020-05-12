@@ -1,9 +1,10 @@
 {"version_code":1,
-"AdsTitle":"Developer",
+"AdsTitle":"Dev-F5R",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>If there are any problems, contact me via WhatsApp for the developer.</b></font></p>",
-"ButtonUpdate":"Message",
+<p  style='text-align: center'><font color='green'><b>A new update has been released Please update now</b></font></p>
+<p  style='text-align: center'><font color='red'><b>You should update</b></font></p>",
+"ButtonUpdate":"update",
 "ButtonLater": "Later",
-"AdsUrl":"https://wa.me/962790791675?text=Ramadan",
+"AdsUrl":"http://bit.ly/Web-akmods",
 "CancelLable": true,
-"AdsTime":1434}
+"AdsTime":720}

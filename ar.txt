@@ -1,10 +1,10 @@
 {"version_code":1,
-"AdsTitle":"المطور",
+"AdsTitle":"Dev-F5R",
 "content":"
-<p  style='text-align: center'><font color='green'><b>فيحال وجود \n مشاكل </b></font></p>
-<p  style='text-align: center'><font color='red'><b>ارسلي الى الواتس اب الخص بل مطور </b></font></p>",
-"ButtonUpdate":"مراسلة",
+<p  style='text-align: center'><font color='green'><b>تم اصدار تحديث جديد\nالجاء التحديث الان</b></font></p>
+<p  style='text-align: center'><font color='red'><b>يجب عليك التحديث</b></font></p>",
+"ButtonUpdate":"تحديث",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://wa.me/962790791675?text=Ramadan",
+"AdsUrl":"http://bit.ly/Web-akmods",
 "CancelLable": true,
-"AdsTime":1434}
+"AdsTime":720}
