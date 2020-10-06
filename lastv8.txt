@@ -1,1 +1,7 @@
-{'ver1':'8', 'ver2':'90', 'ver3':'\n\n' , 'dli':'http://bit.ly/Web-akmods', 'exp890':'555', 'exp845':'1'}
+{  'ver1':'8',
+  'ver2':'90',
+  'ver3':'\nTestr\n' ,
+  'dli':'almgro7al3nzy.com',
+  'exp845':'1',
+  'exp890':'157',
+  }
