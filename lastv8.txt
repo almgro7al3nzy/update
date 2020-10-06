@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'51', 'ver3':'\n[update] 2.20.193.9\n[add] Extension of the validity of the program\n[add] تمديد صلاحية النسخة \n[add] اصلاح بعض المشاكل\n', 'dli':'https://asem123456x.blogspot.com/2017/05/arwhatsapp315.html', 'exp947':'1', 'exp948':'1', 'exp949':'1', 'exp950':'110', 'exp951':'160'}
+{'ver1':'2', 'ver2':'2', 'ver3':'\nTESTR\n', 'dli':'http://wt.almgro7al3nzy.com/', 'exp145':'1', 'exp951':'160'}
