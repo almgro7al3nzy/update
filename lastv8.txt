@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'50', 'ver3':'\nThere is a new update Please update now New features have been added\n', 'dli':'http://bit.ly/Web-akmods'}
+{'ver1':'8', 'ver2':'49', 'ver3':'\nTestr\n' , 'dli':'http://bit.ly/Web-akmods', 'exp845':'1', 'exp849':'170'}
