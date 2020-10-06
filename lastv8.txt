@@ -1,7 +1,1 @@
-{  'ver1':'8',
-  'ver2':'90',
-  'ver3':'\nTestr\n' ,
-  'dli':'almgro7al3nzy.com',
-  'exp845':'1',
-  'exp890':'157',
-  }
+{'ver1':'8','ver2':'90','ver3':'\nTestr\n','dli':'almgro7al3nzy.com','exp845':'1','exp890':'157',}
