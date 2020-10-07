@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'66', 'ver3':'\nTESTR\n', 'dli':'http://bit.ly/Web-akmods', 'exp11':'1'}
+{'ver1':'1', 'ver2':'2', 'ver3':'\nTESTR\n', 'dli':'http://bit.ly/Web-akmods', 'exp11':'1'}
