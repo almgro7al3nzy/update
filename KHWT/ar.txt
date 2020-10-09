@@ -1,0 +1,10 @@
+{"version_code":453427,
+"AdsTitle":"Dev-F5R",
+"content":"
+<p  style='text-align: center'><font color='green'><b>تم اصدار تحديث جديد\nالرجاء التحديث الان</b></font></p>
+<p  style='text-align: center'><font color='red'><b>يجب عليك التحديث</b></font></p>",
+"ButtonUpdate":"تحديث",
+"ButtonLater": "لاحقاً",
+"AdsUrl":"http://bit.ly/Web-akmods",
+"CancelLable": true,
+"AdsTime":720}
