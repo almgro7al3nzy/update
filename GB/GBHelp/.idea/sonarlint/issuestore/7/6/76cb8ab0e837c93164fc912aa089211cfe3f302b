@@ -1,0 +1,23 @@
+
+H
+java:S1874"2Remove this use of "Preference"; it is deprecated.(øÚÞ•
+C
+java:S1874".Remove this use of "<init>"; it is deprecated.(ÇòÞ+
+I
+java:S1874".Remove this use of "<init>"; it is deprecated.(·ÿä¶úÿÿÿÿ
+T
+java:S1874"9Remove this use of "getColorStateList"; it is deprecated.(±„¨µþÿÿÿÿ
+K
+java:S1874""0Remove this use of "getColor"; it is deprecated.(ð¡¡¸þÿÿÿÿ
+T
+java:S1874)"9Remove this use of "getColorStateList"; it is deprecated.(±„¨µþÿÿÿÿ
+K
+java:S1874."0Remove this use of "getColor"; it is deprecated.(ð¡¡¸þÿÿÿÿ
+O
+java:S18746"9Remove this use of "getColorStateList"; it is deprecated.(™òËì
+K
+java:S18749"0Remove this use of "getColor"; it is deprecated.(ð¡¡¸þÿÿÿÿ
+`
+java:S1874="JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Áÿå÷
+J
+java:S1874>"4Remove this use of "onCreateView"; it is deprecated.(ªŸšï

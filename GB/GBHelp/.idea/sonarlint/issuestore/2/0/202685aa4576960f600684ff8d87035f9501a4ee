@@ -1,0 +1,13 @@
+
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„îŒíøÿÿÿÿ
+G
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(ôİº¢
+_
+java:S1874^"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­–ÀS
+@
+java:S1172j"*Remove this unused method parameter "msg".(úõĞè
+Q	java:S125l"<This block of commented-out lines of code should be removed.(¤¯¹
+K
+java:S1874®"/Remove this use of "execute"; it is deprecated.(„±ÚÂüÿÿÿÿ
+J
+java:S1068"4Remove this unused "customTagHandler" private field.(¿µ§

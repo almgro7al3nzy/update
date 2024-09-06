@@ -1,0 +1,97 @@
+
+i
+java:S1192@"NUse already-defined constant 'NICKNAME' instead of duplicating its value here.(˜–şÿÿÿÿ
+]
+java:S3973="GUse indentation to denote the code conditionally executed by this "if".(©Íó»
+b
+java:S3973?"GUse indentation to denote the code conditionally executed by this "if".(¿Èªèøÿÿÿÿ
+b
+java:S3973A"GUse indentation to denote the code conditionally executed by this "if".(™¿›Åÿÿÿÿÿ
+^
+java:S3973¦"GUse indentation to denote the code conditionally executed by this "if".(¥·ÑŞ
+c
+java:S3973¶"GUse indentation to denote the code conditionally executed by this "if".(ÌŒ¬ıÿÿÿÿ
+e
+java:S3973¸"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+¢
+java:S2681?"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¿Èªèøÿÿÿÿ
+¢
+java:S2681A"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(™¿›Åÿÿÿÿÿ
+
+java:S2681C"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(î¬šû
+
+java:S2681{"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(€•õ¨
+c
+java:S2095¾"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÓÒ«
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—‹Û
+U
+java:S1118":Add a private constructor to hide the implicit public one.(½ö²üÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—‹Û
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(äÎşşÿÿÿÿ
+Z
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(äÏÍh
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(¡ˆš£
+`
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(†¼©ºÿÿÿÿÿ
+`
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(¬’¹ûÿÿÿÿ
+[
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(²Ü²š
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(•˜´¦
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(¢§¤Ûÿÿÿÿÿ
+D
+java:S11727")Remove this unused method parameter "id".(£îïèüÿÿÿÿ
+T
+java:S1874G"9Remove this use of "PreferenceManager"; it is deprecated.(â‰²îùÿÿÿÿ
+^
+java:S1874G"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(â‰²îùÿÿÿÿ
+O
+java:S1874K"9Remove this use of "PreferenceManager"; it is deprecated.(Ğ‘®‰
+Y
+java:S1874K"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Ğ‘®‰
+O
+java:S1874N"9Remove this use of "PreferenceManager"; it is deprecated.(Åè‰‹
+Y
+java:S1874N"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Åè‰‹
+T
+java:S1874Q"9Remove this use of "PreferenceManager"; it is deprecated.(üÇÿÿÿÿÿ
+^
+java:S1874Q"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(üÇÿÿÿÿÿ
+T
+java:S1874U"9Remove this use of "PreferenceManager"; it is deprecated.(ËÌ‡Ùùÿÿÿÿ
+^
+java:S1874U"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(ËÌ‡Ùùÿÿÿÿ
+h	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ãäÉÿÿÿÿÿ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(Îğûù
+W	java:S125”"<This block of commented-out lines of code should be removed.(âßÌ´ùÿÿÿÿ
+E
+java:S1874Ÿ".Remove this use of "locale"; it is deprecated.(¹ã†É
+R
+java:S1874 ";Remove this use of "updateConfiguration"; it is deprecated.(‚´òÓ
+U
+java:S1874¥"9Remove this use of "PreferenceManager"; it is deprecated.(¶³°ûÿÿÿÿ
+_
+java:S1874¥"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(¶³°ûÿÿÿÿ
+]
+java:S1126¨"AReplace this if-then-else statement by a single return statement.(âÈŞªûÿÿÿÿ
+U
+java:S1874Í"9Remove this use of "PreferenceManager"; it is deprecated.(ì‚µÿÿÿÿÿ
+_
+java:S1874Í"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(ì‚µÿÿÿÿÿ
+U
+java:S1874Ñ"9Remove this use of "PreferenceManager"; it is deprecated.(Úœ¤¢ıÿÿÿÿ
+_
+java:S1874Ñ"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Úœ¤¢ıÿÿÿÿ
+P
+java:S1874Õ"9Remove this use of "PreferenceManager"; it is deprecated.(Í›‰ù
+Z
+java:S1874Õ"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(Í›‰ù
+U
+java:S1874Ù"9Remove this use of "PreferenceManager"; it is deprecated.(¹¦«ùÿÿÿÿ
+_
+java:S1874Ù"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(¹¦«ùÿÿÿÿ

@@ -1,0 +1,18 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(¥œ´…8¥ùœª’2
+S
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(åœÿñþÿÿÿÿ8Ð¢Ÿª’2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÄŒ¯…úÿÿÿÿ8Ý¢Ÿª’2
+L
+java:S1197-"*Move the array designators [] to the type.(î»ÒÈüÿÿÿÿ8æ£Ÿª’2
+G
+java:S1481."*Remove this unused "total" local variable.(â—˜¯8ó£Ÿª’2
+D	java:S108A")Either remove or fill this block of code.(”ã‰G8˜¤Ÿª’2
+L
+java:S2093!"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8š¤Ÿª’2
+l
+java:S1874L"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Œÿµºøÿÿÿÿ8š¤Ÿª’2
+R
+java:S1874M"5Remove this use of "onPostExecute"; it is deprecated.(Ü«Š„8¤¤Ÿª’2
